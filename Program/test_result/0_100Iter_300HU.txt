@@ -1,0 +1,164 @@
+Data set:  0
+Training sample:  800
+Test sample:  200
+Lambda (Regularization):  1
+Hidden units:  300
+Training iteration:  100
+90.5
+89.0
+85.5
+90.0
+88.0
+88.0
+86.0
+87.0
+89.0
+88.0
+Final accuracy: 88.100000
+
+====================================
+End of Program.
+Devin Efendy, COMP3190, Assignment 4
+python3.7 main.py  539.28s user 53.14s system 181% cpu 5:25.54 total
+
+
+Data set:  0
+Training sample:  1600
+Test sample:  400
+Lambda (Regularization):  1
+Hidden units:  300
+Training iteration:  100
+/Users/devin/Documents/F19/COMP3190/3190_Assignments/a4/PyAI/utilsML.py:121: RuntimeWarning: divide by zero encountered in log
+  np.log(a3) + (1 - y_matrix) * np.log(1 - a3)))
+/Users/devin/Documents/F19/COMP3190/3190_Assignments/a4/PyAI/utilsML.py:121: RuntimeWarning: invalid value encountered in multiply
+  np.log(a3) + (1 - y_matrix) * np.log(1 - a3)))
+89.75
+92.75
+90.5
+87.5
+88.25
+86.25
+93.0
+91.5
+89.5
+91.75
+Final accuracy: 90.075000
+
+====================================
+End of Program.
+Devin Efendy, COMP3190, Assignment 4
+python3.7 main.py  941.65s user 84.24s system 184% cpu 9:16.31 total
+
+
+Data set:  0
+Training sample:  2400
+Test sample:  600
+Lambda (Regularization):  1
+Hidden units:  300
+Training iteration:  100
+92.83333333333333
+91.16666666666666
+90.66666666666666
+92.33333333333333
+92.0
+93.0
+91.16666666666666
+/Users/devin/Documents/F19/COMP3190/3190_Assignments/a4/PyAI/utilsML.py:121: RuntimeWarning: divide by zero encount
+ered in log
+  np.log(a3) + (1 - y_matrix) * np.log(1 - a3)))
+/Users/devin/Documents/F19/COMP3190/3190_Assignments/a4/PyAI/utilsML.py:121: RuntimeWarning: invalid value encounte
+red in multiply
+  np.log(a3) + (1 - y_matrix) * np.log(1 - a3)))
+93.0
+91.5
+81.33333333333333
+Final accuracy: 90.900000
+
+====================================
+End of Program.
+Devin Efendy, COMP3190, Assignment 4
+
+Data set:  0
+Training sample:  3200
+Test sample:  800
+Lambda (Regularization):  1
+Hidden units:  300
+Training iteration:  100
+92.625
+92.75/Users/devin/Documents/F19/COMP3190/3190_Assignments/a4/PyAI/utilsML.py:121: RuntimeWarning: divide by zero encount
+ered in log
+  np.log(a3) + (1 - y_matrix) * np.log(1 - a3)))/Users/devin/Documents/F19/COMP3190/3190_Assignments/a4/PyAI/utilsML.py:121: RuntimeWarning: invalid value encounte
+red in multiply
+  np.log(a3) + (1 - y_matrix) * np.log(1 - a3)))
+84.375
+83.875
+88.75
+90.25
+91.75
+91.375
+92.125
+92.25
+Final accuracy: 90.012500
+
+====================================
+End of Program.
+Devin Efendy, COMP3190, Assignment 4
+python3.7 main.py  2259.21s user 208.26s system 182% cpu 22:29.90 total
+
+Data set:  0
+Training sample:  4000
+Test sample:  1000
+Lambda (Regularization):  1
+Hidden units:  300
+Training iteration:  100
+92.0
+/Users/devin/Documents/F19/COMP3190/3190_Assignments/a4/PyAI/utilsML.py:121: RuntimeWarning: divide by
+ zero encountered in log
+  np.log(a3) + (1 - y_matrix) * np.log(1 - a3)))
+/Users/devin/Documents/F19/COMP3190/3190_Assignments/a4/PyAI/utilsML.py:121: RuntimeWarning: invalid v
+alue encountered in multiply
+  np.log(a3) + (1 - y_matrix) * np.log(1 - a3)))
+93.0
+92.9
+92.5
+92.0
+92.0
+95.0
+92.30000000000001
+93.60000000000001
+91.7
+Final accuracy: 92.700000
+
+====================================
+End of Program.
+Devin Efendy, COMP3190, Assignment 4
+python3.7 main.py  2734.29s user 270.89s system 186% cpu 26:49.88 total
+
+Data set:  0
+Training sample:  5000
+Test sample:  5000
+Lambda (Regularization):  1
+Hidden units:  300
+Training iteration:  100
+/Users/devin/Documents/F19/COMP3190/3190_Assignments/a4/PyAI/utilsML.py:121: RuntimeWarning: divide by
+ zero encountered in log
+  np.log(a3) + (1 - y_matrix) * np.log(1 - a3)))
+/Users/devin/Documents/F19/COMP3190/3190_Assignments/a4/PyAI/utilsML.py:121: RuntimeWarning: invalid v
+alue encountered in multiply
+  np.log(a3) + (1 - y_matrix) * np.log(1 - a3)))
+93.26
+94.88
+90.84
+93.14
+93.12
+91.4
+94.28
+93.04
+95.26
+92.75999999999999
+Final accuracy: 93.198000
+
+====================================
+End of Program.
+Devin Efendy, COMP3190, Assignment 4
+python3.7 main.py  3400.33s user 320.58s system 187% cpu 33:00.50 total

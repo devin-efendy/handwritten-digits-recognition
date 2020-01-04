@@ -1,0 +1,262 @@
+
+Data set:  1
+Training sample:  800
+Test sample:  200
+Lambda (Regularization):  1
+Hidden units:  300
+Training iteration:  100
+/Users/devin/Documents/F19/COMP3190/3190_Assignments/a4/PyAI/utilsML.py:60: RuntimeWarning: overflow encountered in exp
+  g = 1.0 / (1.0 + np.exp(-z))
+68.0
+84.0
+85.0
+78.0
+84.0
+82.0
+76.0
+73.5
+82.5
+83.5
+Final accuracy: 79.650000
+
+Training sample:  1600
+Test sample:  400
+Lambda (Regularization):  1
+Hidden units:  300
+Training iteration:  100
+/Users/devin/Documents/F19/COMP3190/3190_Assignments/a4/PyAI/utilsML.py:60: RuntimeWar
+ning: overflow encountered in exp
+  g = 1.0 / (1.0 + np.exp(-z))
+81.5
+87.25
+86.0
+86.5
+88.75
+88.5
+82.25
+86.5
+88.75
+91.25
+Final accuracy: 86.725000
+
+====================================
+End of Program.
+Devin Efendy, COMP3190, Assignment 4
+python3.7 main.py  2203.35s user 167.66s system 179% cpu 22:02.14 total
+
+Data set:  1
+Training sample:  2400
+Test sample:  600
+Lambda (Regularization):  1
+Hidden units:  300
+Training iteration:  100
+/Users/devin/Documents/F19/COMP3190/3190_Assignments/a4/PyAI/utilsML.py:60: RuntimeWarning: overflow encountered in exp
+  g = 1.0 / (1.0 + np.exp(-z))
+88.16666666666667
+88.16666666666667
+90.33333333333333
+86.33333333333333
+87.83333333333333
+88.0
+88.5
+88.16666666666667
+91.16666666666666
+83.66666666666667
+Final accuracy: 88.033333
+
+Data set:  1         
+Training sample:  3200                  
+Test sample:  800
+Lambda (Regularization):  1
+Hidden units:  300         
+Training iteration:  100                  
+
+86.0
+87.75
+86.5
+84.75
+86.0
+89.125
+81.625
+91.5
+89.0
+87.25
+
+Final accuracy: 86.950000
+
+Data set:  1
+Training sample:  4000
+Test sample:  1000
+Lambda (Regularization):  1
+Hidden units:  300
+Training iteration:  100
+/Users/devin/Documents/F19/COMP3190/3190_Assignments/a4/PyAI/utilsML.py:60: RuntimeWarning: overflow encountered in exp
+  g = 1.0 / (1.0 + np.exp(-z))
+88.5
+87.7
+87.6
+87.7
+88.5
+86.6
+88.8
+87.0
+87.9
+92.4
+Final accuracy: 88.270000
+
+====================================
+End of Program.
+Devin Efendy, COMP3190, Assignment 4
+python3.7 main.py  3532.09s user 421.19s system 151% cpu 43:31.80 total
+
+Data set:  1
+Training sample:  4800
+Test sample:  1200
+Lambda (Regularization):  1
+Hidden units:  300
+Training iteration:  100
+/Users/devin/Documents/F19/COMP3190/3190_Assignments/a4/PyAI/utilsML.py:73: RuntimeWarning: overflow encountered in exp
+  g = 1.0 / (1.0 + np.exp(-z))
+91.5
+87.75
+91.83333333333333
+87.41666666666667
+87.08333333333333
+83.25
+91.91666666666667
+89.16666666666667
+90.16666666666666
+85.41666666666666
+Final accuracy: 88.550000
+
+====================================
+End of Program.
+Devin Efendy, COMP3190, Assignment 4
+python3.7 main.py  6497.94s user 579.08s system 181% cpu 1:04:49.05 total
+
+Data set:  1
+Training sample:  5600
+Test sample:  1400
+Lambda (Regularization):  1
+Hidden units:  300
+Training iteration:  100
+/Users/devin/Documents/F19/COMP3190/3190_Assignments/a4/PyAI/utilsML.py:73: RuntimeWarning: overflow encountered in exp
+  g = 1.0 / (1.0 + np.exp(-z))
+89.78571428571429
+88.57142857142857
+88.14285714285714
+89.92857142857143
+91.42857142857143
+86.07142857142858
+88.14285714285714
+82.92857142857143
+88.28571428571429
+91.5
+Final accuracy: 88.478571
+
+====================================
+End of Program.
+Devin Efendy, COMP3190, Assignment 4
+python3.7 main.py  7122.18s user 621.78s system 183% cpu 1:10:24.94 total
+
+Data set:  1
+Training sample:  6400
+Test sample:  1600
+Lambda (Regularization):  1
+Hidden units:  300
+Training iteration:  100
+/Users/devin/Documents/F19/COMP3190/3190_Assignments/a4/PyAI/utilsML.py:73: Runt
+imeWarning: overflow encountered in exp
+  g = 1.0 / (1.0 + np.exp(-z))
+89.8125
+90.8125
+87.625
+90.1875
+88.25
+89.625
+91.0
+88.0625
+88.625
+84.875
+Final accuracy: 88.887500
+
+====================================
+End of Program.
+Devin Efendy, COMP3190, Assignment 4
+python3.7 main.py  8604.19s user 698.17s system 186% cpu 1:22:55.78 total
+
+Data set:  1
+Training sample:  7200
+Test sample:  1800
+Lambda (Regularization):  1
+Hidden units:  300
+Training iteration:  100
+/Users/devin/Documents/F19/COMP3190/3190_Assignments/a4/PyAI/utilsML.py:73: Runt
+imeWarning: overflow encountered in exp
+  g = 1.0 / (1.0 + np.exp(-z))
+90.77777777777779
+89.38888888888889
+91.0
+91.66666666666666
+89.44444444444444
+87.8888888888889
+89.88888888888889
+88.22222222222223
+91.0
+86.44444444444444
+Final accuracy: 89.572222
+
+====================================
+End of Program.
+Devin Efendy, COMP3190, Assignment 4
+python3.7 main.py  9252.37s user 744.59s system 187% cpu 1:28:45.82 total
+
+
+Data set:  1
+Training sample:  10000
+Test sample:  2000
+Lambda (Regularization):  1Hidden units:  300
+Training iteration:  100
+/Users/devin/Documents/F19/COMP3190/3190_Assignments/a4/PyAI/utilsML.py:72: RuntimeWarning: overfl
+ow encountered in exp
+  g = 1.0 / (1.0 + np.exp(-z))
+93.35
+91.55
+91.14999999999999
+88.55
+91.4
+88.44999999999999
+87.64999999999999
+91.35
+92.25
+85.3
+
+====================================
+End of Program.
+Devin Efendy, COMP3190, Assignment 4
+python3.7 main.py  10186.64s user 1495.05s system 194% cpu 1:39:51.07 total
+900.997/10 = 90.0997
+
+This is not being run for 10 tests
+*************** RUNNING ON ALL TRANING SET ***************
+Training Neural Networks
+--------------------------------------------------------------------
+Training Iteration     :  100
+Training data set used :  1
+Random sample size     :  60000
+Test sample size       :  10000
+Lambda (Regularization):  1
+Number of Input Layer  :  784
+Number of Hidden Layer :  1
+     Hidden layer size :  300
+Number of output layer :  10
+Training Set Accuracy  : 93.390000
+
+--------------------------------------------------------------------
+
+
+
+====================================
+End of Program.
+Devin Efendy, COMP3190, Assignment 4
+python3 main.py  6343.83s user 747.51s system 186% cpu 1:03:30.63 total

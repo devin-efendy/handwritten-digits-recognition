@@ -1,0 +1,74 @@
+Training Iteration     :  50
+Training data set used :  0
+Random sample size     :  800
+Test sample size       :  200
+Lambda (Regularization):  1
+Number of Input Layer  :  400
+Number of Hidden Layer :  1
+     Hidden layer size :  25
+Number of output layer :  10
+Final accuracy: 82.300000, after 10 run
+
+Training Iteration     :  50
+Training data set used :  0
+Random sample size     :  1600
+Test sample size       :  400
+Lambda (Regularization):  1
+Number of Input Layer  :  400
+Number of Hidden Layer :  1
+     Hidden layer size :  25
+Number of output layer :  10
+Final accuracy: 87.275000, after 10 run
+Data set:  0
+Training sample:  2400
+Test sample:  600
+Lambda (Regularization):  1
+Hidden units:  25
+Training iteration:  50
+87.66666666666667
+87.0
+88.0
+87.66666666666667
+81.66666666666667
+86.5
+89.5
+91.0
+86.5
+89.83333333333333
+Final accuracy: 87.533333, after 10 run
+
+Data set:  0
+Training sample:  3200
+Test sample:  800
+Lambda (Regularization):  1
+Hidden units:  25
+Training iteration:  50
+86.125
+84.75
+89.875
+90.25
+88.375
+89.0
+85.25
+87.0
+86.25
+88.375
+Final accuracy: 87.525000, after 10 run
+
+Data set:  0
+Training sample:  4000
+Test sample:  1000
+Lambda (Regularization):  1
+Hidden units:  25
+Training iteration:  50
+88.7
+90.8
+87.2
+89.5
+84.8
+86.4
+87.3
+88.2
+86.7
+89.1
+Final accuracy: 87.870000, after 10 run

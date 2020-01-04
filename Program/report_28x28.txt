@@ -1,0 +1,184 @@
+====================================================================================================
+============================ USING 300 HIDDEN UNITS IN ONE HIDDEN LAYER ============================
+====================================================================================================
+
+Loading and preparing data sets...
+--------------------------------------------------------------------
+Shape of training data sets, X: (500, 784)
+Number of sample training data sets, m: 500
+Number of Original training data sets, m: 60000
+Number of features, 28x28 pixels intensity: 784
+
+Training Neural Networks
+--------------------------------------------------------------------
+/Users/devin/Documents/F19/COMP3190/3190_Assignments/a4/PyAI/utilsML.py:56: RuntimeWar
+ning: overflow encountered in exp
+  g = 1.0 / (1.0 + np.exp(-z))
+Training Iteration     :  100
+Training data set used :  1
+Random sample size     :  500
+Test sample size       :  60000
+Lambda (Regularization):  1
+Number of Input Layer  :  784
+Number of Hidden Layer :  1
+     Hidden layer size :  300
+Number of output layer :  10
+Training Set Accuracy  : 75.066667
+
+--------------------------------------------------------------------
+
+
+
+Loading and preparing data sets...
+--------------------------------------------------------------------
+Shape of training data sets, X: (1000, 784)
+Number of sample training data sets, m: 1000
+Number of Original training data sets, m: 60000
+Number of features, 28x28 pixels intensity: 784
+
+Training Neural Networks
+--------------------------------------------------------------------
+Training Iteration     :  100
+Training data set used :  1
+Random sample size     :  1000
+Test sample size       :  60000
+Lambda (Regularization):  1
+Number of Input Layer  :  784
+Number of Hidden Layer :  1
+     Hidden layer size :  300
+Number of output layer :  10
+Training Set Accuracy  : 81.831667
+
+--------------------------------------------------------------------
+
+
+
+Loading and preparing data sets...
+--------------------------------------------------------------------
+Shape of training data sets, X: (2000, 784)
+Number of sample training data sets, m: 2000
+Number of Original training data sets, m: 60000
+Number of features, 28x28 pixels intensity: 784
+
+Training Neural Networks
+--------------------------------------------------------------------
+Training Iteration     :  100
+Training data set used :  1
+Random sample size     :  2000
+Test sample size       :  60000
+Lambda (Regularization):  1
+Number of Input Layer  :  784
+Number of Hidden Layer :  1
+     Hidden layer size :  300
+Number of output layer :  10
+Training Set Accuracy  : 89.320000
+
+--------------------------------------------------------------------
+
+
+
+Loading and preparing data sets...
+--------------------------------------------------------------------
+Shape of training data sets, X: (3000, 784)
+Number of sample training data sets, m: 3000
+Number of Original training data sets, m: 60000
+Number of features, 28x28 pixels intensity: 784
+
+Training Neural Networks
+--------------------------------------------------------------------
+Training Iteration     :  100
+Training data set used :  1
+Random sample size     :  3000
+Test sample size       :  60000
+Lambda (Regularization):  1
+Number of Input Layer  :  784
+Number of Hidden Layer :  1
+     Hidden layer size :  300
+Number of output layer :  10
+Training Set Accuracy  : 85.431667
+
+--------------------------------------------------------------------
+
+
+
+Loading and preparing data sets...
+--------------------------------------------------------------------
+Shape of training data sets, X: (4000, 784)
+Number of sample training data sets, m: 4000
+Number of Original training data sets, m: 60000
+Number of features, 28x28 pixels intensity: 784
+
+Training Neural Networks
+--------------------------------------------------------------------
+Training Iteration     :  100
+Training data set used :  1
+Random sample size     :  4000
+Test sample size       :  60000
+Lambda (Regularization):  1
+Number of Input Layer  :  784
+Number of Hidden Layer :  1
+     Hidden layer size :  300
+Number of output layer :  10
+Training Set Accuracy  : 89.968333
+
+--------------------------------------------------------------------
+
+
+
+Loading and preparing data sets...
+--------------------------------------------------------------------
+Shape of training data sets, X: (5000, 784)
+Number of sample training data sets, m: 5000
+Number of Original training data sets, m: 60000
+Number of features, 28x28 pixels intensity: 784
+
+Training Neural Networks
+--------------------------------------------------------------------
+Training Iteration     :  100
+Training data set used :  1
+Random sample size     :  5000
+Test sample size       :  60000
+Lambda (Regularization):  1
+Number of Input Layer  :  784
+Number of Hidden Layer :  1
+     Hidden layer size :  300
+Number of output layer :  10
+Training Set Accuracy  : 90.670000
+
+Loading and preparing data sets...
+--------------------------------------------------------------------
+Shape of training data sets, X: (60000, 784)
+Number of sample training data sets, m: 60000
+Number of Original training data sets, m: 60000
+Number of features, 28x28 pixels intensity: 784
+
+
+*************** RUNNING ON ALL TRANING SET ***************
+Training Neural Networks
+--------------------------------------------------------------------
+Training Iteration     :  100
+Training data set used :  1
+Random sample size     :  60000
+Test sample size       :  10000
+Lambda (Regularization):  1
+Number of Input Layer  :  784
+Number of Hidden Layer :  1
+     Hidden layer size :  300
+Number of output layer :  10
+Training Set Accuracy  : 93.390000
+
+--------------------------------------------------------------------
+
+
+
+====================================
+End of Program.
+Devin Efendy, COMP3190, Assignment 4
+python3 main.py  6343.83s user 747.51s system 186% cpu 1:03:30.63 total
+
+====================================================================================================
+============================ USING 25 HIDDEN UNITS IN ONE HIDDEN LAYER ============================
+====================================================================================================
+
+
+
